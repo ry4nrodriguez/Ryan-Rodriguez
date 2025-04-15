@@ -30,7 +30,7 @@
   
 - 🛠️ Experimenting with AI model evaluations using GPT and real-world Turing tests
 
---
+---
 
 ## 📫 Let’s Connect!
 
